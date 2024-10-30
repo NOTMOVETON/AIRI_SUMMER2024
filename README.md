@@ -17,7 +17,9 @@
 В результате выполнения проекта было обучено огромное множество обученных агентов, большинство из них не могли справиться с поставленной задачей, но некоторые показали относительно рабочий результат. 
 
 
+
+https://github.com/user-attachments/assets/e38d4ec8-0903-4f6c-8c7a-77d67349bb0e
 Видео с примером работы лучшего полученного агента
 
 [Отчет](https://docs.google.com/document/d/1tdW2XGwlyqLLGHqRc42NOWkJK84U0Exm723ULfpPi38/edit?usp=sharing)
-[Презентацию работы](https://docs.google.com/presentation/d/1jtNIakRO1FqaYClxj6sjHEq2X0mII-rKI4AufXIBggU/edit?usp=sharing)
+[Презентация работы](https://docs.google.com/presentation/d/1jtNIakRO1FqaYClxj6sjHEq2X0mII-rKI4AufXIBggU/edit?usp=sharing)
